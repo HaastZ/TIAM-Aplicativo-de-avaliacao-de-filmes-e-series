@@ -49,3 +49,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+# Forma de abrir o projeto 
+
+- Após baixar o projeto, de o comando no terminal "npm install" e após isso "cd src", "cd my-app" e "npm start" ou "expo start"
+- para abrir o projeto precisa estar em um ambiente móvel, expo go ou android studio
